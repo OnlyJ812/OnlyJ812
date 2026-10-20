@@ -11,6 +11,6 @@ Learning **C++** | Basic knowledge of **Python**, **HTML**, and **CSS** | Active
 
 ---
 
-##№ Contact
+## Contact
 
 You can reach me by email at [victorkov75@gmail.com](victorkov75@gmail.com)
